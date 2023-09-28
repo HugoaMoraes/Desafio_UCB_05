@@ -6,7 +6,7 @@
 
 ### Projeto da aula de programação de APP, Universidade Católica de Brasília.
 
-Usando o conceito de SHARED PREFERENCES, projeto consiste na criação de um app de Fomulário de Evento, onde os dados devem ser persistidos na memória do celular.
+Usando o conceito de SHARED PREFERENCES, projeto consiste na criação de um app de Formulário de Evento, onde os dados devem ser persistidos na memória do celular.
 
 ## Autor
 
